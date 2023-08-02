@@ -5,4 +5,5 @@ title: OpenScanHub
 description: OpenScanHub is a service for static and dynamic analysis.
 github:
   is_project_page: true
-  repository_nwo: https://github.com/openscanhub/openscanhub
+  repository_url: https://github.com/openscanhub/openscanhub
+  repository_nwo: ""
