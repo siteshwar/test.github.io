@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 ---
  OpenScanHub is a service that runs various static analyzers on RPM packages. The tasks can be triggered by users from the command-line interface provided by the osh-client RPM package. The client can be invoked interactively as well as from CI environments and other automation.
 
